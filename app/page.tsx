@@ -67,7 +67,7 @@ export default function Home() {
           </p>
 
           <div className="text-5xl font-bold mb-8">
-            ₹4,999 
+            ₹499 
           </div>
 
           <div className="text-5xl font-bold mb-8">
